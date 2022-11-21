@@ -1,0 +1,19 @@
+{
+  "name": "webcv",
+  "version": "1.0.0",
+  "description": "Web CV",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M-Qasim-Khan/M-Qasim-Khan.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/M-Qasim-Khan/M-Qasim-Khan.github.io/issues"
+  },
+  "homepage": "https://github.com/M-Qasim-Khan/M-Qasim-Khan.github.io#readme"
+}
