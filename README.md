@@ -1,2 +1,2 @@
 # web-cv
-https://mqkhan.github.io/web-cv.github.io/
+https://mqkhan.github.io/webCV/
